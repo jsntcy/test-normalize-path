@@ -2,7 +2,8 @@
   "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
-  "need_pr_comments": false,
+  "need_pr_comments": true,
+  "need_preview_pull_request": true,
   "docsets_to_publish": [
     {
       "docset_name": "docset1-jsntcy",
